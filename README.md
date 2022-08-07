@@ -1,5 +1,5 @@
 # Simple-DevOps-Project!
-[Uploading Simple-DevOps-Project.png…]()
+<img width="1432" alt="Simple-DevOps-Project" src="https://user-images.githubusercontent.com/95365748/183281035-92e2afd7-3011-4b6c-9da6-a5f8821a8a73.png">
 
 
 
