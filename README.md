@@ -27,7 +27,7 @@ now create 4 freestyle project to build pipeline named accordingly 1)go to first
 
 4)repeat first step and go to build-->invoke-Ant-->Targets(war)-->post-build-action-->deploy-war/ear-to-container-->WAR/EAR-files(**/*.war)-->add-tomcat and give website for local-host where tomcat is running(restart tomcat)
 
-for making pipeline go to first project and configure-->post-build-action-->build-other-project select and save continue till last project at last first-project-->configure-->build-triggers-->polls-scm-->* * * * *
+for making pipeline go to first project and configure-->post-build-action-->build-other-project select and save continue till last project at last first-project-->configure-->build-triggers-->polls-scm--> * * * * *
 
 it will be deployed on tomcat
 
